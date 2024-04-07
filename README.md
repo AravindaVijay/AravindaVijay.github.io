@@ -1,4 +1,4 @@
-Hi I am Aravinda Vijayaram Kumar.
+
 
 As a graduate student in Data Science at The George Washington University, I am passionate about applying my knowledge and skills to solve real-world problems using data. 
 
