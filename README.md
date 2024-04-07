@@ -11,3 +11,5 @@ My goal is to become a data scientist who can leverage data to generate insights
 Projects-
 
 1. [Unraveling the Key Differences in Graph Databases Neo4j and GraphDB](https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf).
+2. [Spotify EDA and Analysis Part-1](https://github.com/AravindaVijay/DATS_6101_Midterm_T7/blob/main/Project/proj_v2.html)
+3. [Spotify Analysis and Genre Prediction Part-2](https://github.com/AravindaVijay/DATS_6101_Midterm_T7/blob/main/End_term/proj_endterm.html)
