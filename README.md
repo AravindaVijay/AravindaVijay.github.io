@@ -16,12 +16,10 @@ Projects-
 |:---:|:---:|
 
 
-2. [![Project Image](![image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/d4a9e66c-99e1-47d4-bbc4-0bf0eccb25dd)
- =200x)](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)
+[![Project Image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/d4a9e66c-99e1-47d4-bbc4-0bf0eccb25dd)](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)
 
 **[Spotify EDA and Analysis Part-1](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)**
 
 **[Spotify Analysis and Genre Prediction Part-2](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_endterm.html)**
-
 
 3. [Unlocking Airbnb's Success](https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf)
