@@ -60,10 +60,9 @@ Projects-
     <div style="margin-top: 10px;">
       <p style="text-align: center;"><a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html"><strong>Spotify EDA and Analysis Part-1</strong></a></p>
     </div>
-
-<p>This project delves into the world of music streaming, analyzing the diverse audio features of songs to uncover patterns and insights. By examining attributes such as harmonies, rhythms, and melodies across various genres, the aim is to predict song popularity and enhance user experiences. Through this exploration, we decode the language of music to create a personalized streaming journey for listeners.</p>
-
+    <p>This project delves into the world of music streaming, analyzing the diverse audio features of songs to uncover patterns and insights. By examining attributes such as harmonies, rhythms, and melodies across various genres, the aim is to predict song popularity and enhance user experiences. Through this exploration, we decode the language of music to create a personalized streaming journey for listeners.</p>
   </div>
+  
   <div style="flex: 1;">
     <a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_endterm.html">
       <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9e6391d1-22d7-4a41-91cb-8b062a409efe" alt="Project Image" style="width: 30%;">
@@ -71,13 +70,13 @@ Projects-
     <div style="margin-top: 10px;">
       <p style="text-align: center;"><a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_endterm.html"><strong>Spotify Analysis and Genre Prediction Part-2</strong></a></p>
     </div>
+    <p>This project is a deep dive into the world of music streaming platform Spotify, aiming to analyze the intricate characteristics of songs to gain valuable insights that can enhance user experiences. Within the vast catalog of tracks available on Spotify, the focus is on identifying patterns and connections among diverse audio attributes. The main objectives include predicting song popularity, crafting personalized playlists, and ultimately improving overall user satisfaction.</p>
+
+    <p>This analysis utilizes robust machine learning models such as k-Nearest Neighbors (KNN), Random Forest, XGBoost, and others to delve into the detailed elements of songs. By scrutinizing the distributions of audio features and uncovering correlations, the aim is to reveal the inherent patterns that define genres and captivate audiences. These models not only predict a song’s genre but also offer a nuanced understanding of how different audio attributes contribute to its appeal.</p>
+
+    <p>Additionally, the project extends its exploration into the realm of danceability, a core aspect of music that often transcends genre boundaries. Techniques such as Principal Component Analysis (PCA) and regression analysis are employed to grasp the influence of various features on danceability. Through this analytical journey, the project seeks to uncover the hidden intricacies within musical compositions, decoding the complex relationships between audio features, genres, and danceability to offer predictive insights and a deeper appreciation for the artistry of music.</p>
   </div>
 </div>
-<p>This project is a deep dive into the world of music streaming platform spotify, aiming to analyze the intricate characteristics of songs to gain valuable insights that can enhance user experiences. Within the vast catalog of tracks available on Spotify, the focus is on identifying patterns and connections among diverse audio attributes. The main objectives include predicting song popularity, crafting personalized playlists, and ultimately improving overall user satisfaction.
-
-This analysis utilizes robust machine learning models such as k-Nearest Neighbors (KNN), Random Forest, XGBoost, and others to delve into the detailed elements of songs. By scrutinizing the distributions of audio features and uncovering correlations, the aim is to reveal the inherent patterns that define genres and captivate audiences. These models not only predict a song’s genre but also offer a nuanced understanding of how different audio attributes contribute to its appeal.
-
-Additionally, the project extends its exploration into the realm of danceability, a core aspect of music that often transcends genre boundaries. Techniques such as Principal Component Analysis (PCA) and regression analysis are employed to grasp the influence of various features on danceability. Through this analytical journey, the project seeks to uncover the hidden intricacies within musical compositions, decoding the complex relationships between audio features, genres, and danceability to offer predictive insights and a deeper appreciation for the artistry of music.</p>
 
 
 
