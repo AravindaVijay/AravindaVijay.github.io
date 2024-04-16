@@ -10,7 +10,19 @@ My goal is to become a data scientist who can leverage data to generate insights
 
 Projects-
 
-<h3>1. <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Unraveling the Key Differences in Graph Databases Neo4j and GraphDB</a></h3>
+3. <h3> 1. 
+  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a>
+</h3>
+
+<p style="text-align: center;">
+  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">
+    <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f" alt="Project Image" style="width: 200px;">
+  </a>
+</p>
+
+<h3> 2. 
+  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Unraveling the Key Differences in Graph Databases Neo4j and GraphDB</a>
+</h3>
 
 <table>
   <tr>
@@ -25,7 +37,24 @@ Projects-
       </a>
     </td>
   </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Image 1</a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Image 2</a>
+    </td>
+  </tr>
 </table>
+
+<p>In today's data-driven world, the demand for fast and scalable graph databases is rapidly increasing. As organizations rely more on graph data models to represent complex relationships, understanding the performance characteristics of these databases becomes crucial.</p>
+
+<p>This project dives deep into the performance comparison of two prominent graph databases: Neo4j and Ontotext GraphDB, with a specific focus on RDF data processing. The objective is to provide a comprehensive analysis of their capabilities and challenges through systematic time evaluations.</p>
+
+<p>The study delves into essential aspects such as traversal efficiency and query processing times across varying data sizes and complexities. By using Cypher for Neo4j and SPARQL for GraphDB queries, we aim to offer a nuanced view of how these databases perform in different scenarios.</p>
+
+<p>This project serves as a valuable resource for developers, data engineers, and organizations seeking insights into the performance nuances of graph databases, particularly when dealing with RDF data processing.</p>
+
 
 
 <h3>2. Spotify Analysis</h3> 
@@ -48,13 +77,5 @@ Projects-
   </div>
 </div>
 
-3. <h3>
-  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a>
-</h3>
 
-<p style="text-align: center;">
-  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">
-    <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f" alt="Project Image" style="width: 200px;">
-  </a>
-</p>
 
