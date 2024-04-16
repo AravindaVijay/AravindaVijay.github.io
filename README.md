@@ -10,15 +10,17 @@ My goal is to become a data scientist who can leverage data to generate insights
 
 Projects-
 
-3. <h3> 1. 
-  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a>
-</h3>
+<h3> 1. <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a> </h3>
 
 <p style="text-align: center;">
   <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">
     <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f" alt="Project Image" style="width: 200px;">
   </a>
 </p>
+
+<p>In the dynamic landscape of contemporary travel, Airbnb has emerged as a game-changer, reshaping how individuals explore destinations worldwide. This project delves into Airbnb's profound impact on the hospitality industry, tracing its evolution from a groundbreaking American corporation to a global platform that connects travelers with an array of unique accommodations.</p>
+
+<p>This study aims to uncover the factors influencing Airbnb hosts' pricing decisions. By analyzing key determinants such as location, property size, amenities, seasonality, and local demand, we seek to provide insights into how hosts set their prices. Additionally, we explore the distinctive features shared by premium listings, offering travelers a guide to identifying accommodations that align with their preferences and offer optimal value.</p>
 
 <h3> 2. 
   <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Unraveling the Key Differences in Graph Databases Neo4j and GraphDB</a>
@@ -57,7 +59,7 @@ Projects-
 
 
 
-<h3>2. Spotify Analysis</h3> 
+<h3>3. Spotify Analysis</h3> 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 20px;">
     <a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html">
@@ -66,6 +68,9 @@ Projects-
     <div style="margin-top: 10px;">
       <p style="text-align: center;"><a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html"><strong>Spotify EDA and Analysis Part-1</strong></a></p>
     </div>
+
+<p>This project delves into the world of music streaming, analyzing the diverse audio features of songs to uncover patterns and insights. By examining attributes such as harmonies, rhythms, and melodies across various genres, the aim is to predict song popularity and enhance user experiences. Through this exploration, we decode the language of music to create a personalized streaming journey for listeners.</p>
+
   </div>
   <div style="flex: 1;">
     <a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_endterm.html">
@@ -76,6 +81,11 @@ Projects-
     </div>
   </div>
 </div>
+<p>This project is a deep dive into the world of music streaming platform spotify, aiming to analyze the intricate characteristics of songs to gain valuable insights that can enhance user experiences. Within the vast catalog of tracks available on Spotify, the focus is on identifying patterns and connections among diverse audio attributes. The main objectives include predicting song popularity, crafting personalized playlists, and ultimately improving overall user satisfaction.
+
+This analysis utilizes robust machine learning models such as k-Nearest Neighbors (KNN), Random Forest, XGBoost, and others to delve into the detailed elements of songs. By scrutinizing the distributions of audio features and uncovering correlations, the aim is to reveal the inherent patterns that define genres and captivate audiences. These models not only predict a song’s genre but also offer a nuanced understanding of how different audio attributes contribute to its appeal.
+
+Additionally, the project extends its exploration into the realm of danceability, a core aspect of music that often transcends genre boundaries. Techniques such as Principal Component Analysis (PCA) and regression analysis are employed to grasp the influence of various features on danceability. Through this analytical journey, the project seeks to uncover the hidden intricacies within musical compositions, decoding the complex relationships between audio features, genres, and danceability to offer predictive insights and a deeper appreciation for the artistry of music.</p>
 
 
 
