@@ -28,7 +28,7 @@ Projects-
 </table>
 
 
-
+<h3>2. Spotify Analysis</h3> 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 20px;">
     <a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html">
@@ -48,5 +48,13 @@ Projects-
   </div>
 </div>
 
-3. ![image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f)
-   [Unlocking Airbnb's Success](https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf)
+3. <h3>
+  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a>
+</h3>
+
+<p style="text-align: center;">
+  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">
+    <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f" alt="Project Image" style="width: 200px;">
+  </a>
+</p>
+
