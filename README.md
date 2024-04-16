@@ -39,14 +39,6 @@ Projects-
       </a>
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Image 1</a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Image 2</a>
-    </td>
-  </tr>
 </table>
 
 <p>In today's data-driven world, the demand for fast and scalable graph databases is rapidly increasing. As organizations rely more on graph data models to represent complex relationships, understanding the performance characteristics of these databases becomes crucial.</p>
