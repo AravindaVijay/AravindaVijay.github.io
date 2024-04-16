@@ -16,7 +16,8 @@ Projects-
 |:---:|:---:|
 
 
-2. [![Project Image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/68a003b9-a73c-4512-9c36-bce62dddaff9 =200x)](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)
+2. [![Project Image](![image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/d4a9e66c-99e1-47d4-bbc4-0bf0eccb25dd)
+ =200x)](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)
 
 **[Spotify EDA and Analysis Part-1](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)**
 
