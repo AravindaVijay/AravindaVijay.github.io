@@ -76,7 +76,7 @@ Projects-
 
     <p>Additionally, the project extends its exploration into the realm of danceability, a core aspect of music that often transcends genre boundaries. Techniques such as Principal Component Analysis (PCA) and regression analysis are employed to grasp the influence of various features on danceability. Through this analytical journey, the project seeks to uncover the hidden intricacies within musical compositions, decoding the complex relationships between audio features, genres, and danceability to offer predictive insights and a deeper appreciation for the artistry of music.</p>
   </div>
-</div>
+
 
 
 
