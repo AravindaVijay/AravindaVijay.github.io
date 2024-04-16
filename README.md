@@ -16,9 +16,11 @@ Projects-
 |:---:|:---:|
 
 
-2. [![Project Image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/68a003b9-a73c-4512-9c36-bce62dddaff9 =200x)](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html) **[Spotify EDA and Analysis Part-1](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)**
+2. [![Project Image](https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/68a003b9-a73c-4512-9c36-bce62dddaff9 =200x)](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)
+
+**[Spotify EDA and Analysis Part-1](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html)**
 
 **[Spotify Analysis and Genre Prediction Part-2](https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_endterm.html)**
 
 
-4. [Unlocking Airbnb's Success](https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf)
+3. [Unlocking Airbnb's Success](https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf)
