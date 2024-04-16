@@ -30,12 +30,12 @@ Projects-
   <tr>
     <td style="text-align: center;">
       <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">
-        <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/5edb7fe4-ce6b-43d9-a87a-f9dd7a014538" alt="Image 1" style="width: 200px;">
+        <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/5edb7fe4-ce6b-43d9-a87a-f9dd7a014538"  style="width: 200px;">
       </a>
     </td>
     <td style="text-align: center;">
       <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">
-        <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/6bda6b32-6da0-48aa-9b6f-9f422b19ea27" alt="Image 2" style="width: 200px;">
+        <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/6bda6b32-6da0-48aa-9b6f-9f422b19ea27" style="width: 200px;">
       </a>
     </td>
   </tr>
