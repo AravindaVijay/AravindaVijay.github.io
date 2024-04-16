@@ -1,4 +1,4 @@
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aravinda--vijayaram--kumar--b9a9a4175-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aravinda-vijayaram-kumar-b9a9a4175)
 
 As a graduate student in Data Science at The George Washington University, I am passionate about applying my knowledge and skills to solve real-world problems using data. 
 
