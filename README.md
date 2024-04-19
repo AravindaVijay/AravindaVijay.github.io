@@ -1,12 +1,11 @@
-[![LinkedIn](https://img.shields.io/badge/Aravinda_Vijayaram_Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aravinda-vijayaram-kumar-b9a9a4175)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p> [![LinkedIn](https://img.shields.io/badge/Aravinda_Vijayaram_Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aravinda-vijayaram-kumar-b9a9a4175)
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **dash, tensorflow, plotly, keras**
+- 🌱 A Data Science Graduate Student at George Washington University
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
@@ -21,19 +20,7 @@ My goal is to become a data scientist who can leverage data to generate insights
 
 Projects-
 
-<h3> 1. <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a> </h3>
-
-<p style="text-align: center;">
-  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">
-    <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f" alt="Project Image" style="width: 200px;">
-  </a>
-</p>
-
-<p>In the dynamic landscape of contemporary travel, Airbnb has emerged as a game-changer, reshaping how individuals explore destinations worldwide. This project delves into Airbnb's profound impact on the hospitality industry, tracing its evolution from a groundbreaking American corporation to a global platform that connects travelers with an array of unique accommodations.</p>
-
-<p>This study aims to uncover the factors influencing Airbnb hosts' pricing decisions. By analyzing key determinants such as location, property size, amenities, seasonality, and local demand, we seek to provide insights into how hosts set their prices. Additionally, we explore the distinctive features shared by premium listings, offering travelers a guide to identifying accommodations that align with their preferences and offer optimal value.</p>
-
-<h3> 2. 
+<h3> 1. 
   <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/fcf3a9609d0c6adff1be5324554035d1242cb7fe/projects/Unraveling%20the%20Key%20Differences%20in%20Graph%20Databases%20Neo4j%20and%20%20GraphDB%20using%20RDF%20Dataset.pdf">Unraveling the Key Differences in Graph Databases Neo4j and GraphDB</a>
 </h3>
 
@@ -62,7 +49,7 @@ Projects-
 
 
 
-<h3>3. Spotify Analysis</h3> 
+<h3>2. Spotify Analysis</h3> 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 20px; text-align: center;">
     <a href="https://html-preview.github.io/?url=https://github.com/AravindaVijay/AravindaVijay.github.io/blob/main/projects/proj_v2.html">
@@ -86,6 +73,18 @@ Projects-
     </div>
   </div>
 </div>
+
+<h3> 3. <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">Unlocking Airbnb's Success</a> </h3>
+
+<p style="text-align: center;">
+  <a href="https://docs.google.com/viewer?url=https://github.com/AravindaVijay/AravindaVijay.github.io/raw/main/projects/Unlocking_AirBnb_Success.pdf">
+    <img src="https://github.com/AravindaVijay/AravindaVijay.github.io/assets/143136183/9463fb15-fe4b-46de-abf1-5c99fcfa255f" alt="Project Image" style="width: 200px;">
+  </a>
+</p>
+
+<p>In the dynamic landscape of contemporary travel, Airbnb has emerged as a game-changer, reshaping how individuals explore destinations worldwide. This project delves into Airbnb's profound impact on the hospitality industry, tracing its evolution from a groundbreaking American corporation to a global platform that connects travelers with an array of unique accommodations.</p>
+
+<p>This study aims to uncover the factors influencing Airbnb hosts' pricing decisions. By analyzing key determinants such as location, property size, amenities, seasonality, and local demand, we seek to provide insights into how hosts set their prices. Additionally, we explore the distinctive features shared by premium listings, offering travelers a guide to identifying accommodations that align with their preferences and offer optimal value.</p>
 
 
 
