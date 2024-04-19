@@ -1,6 +1,6 @@
-<h3 align="left">Connect with me: [![LinkedIn](https://img.shields.io/badge/Aravinda_Vijayaram_Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aravinda-vijayaram-kumar-b9a9a4175) </h3>
-<p align="left">
-</p> 
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/aravinda-vijayaram-kumar-b9a9a4175"><img src="https://img.shields.io/badge/Aravinda_Vijayaram_Kumar-blue?style=flat&logo=linkedin" alt="LinkedIn"></a></h3>
+
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <h3 align="center"> A Data Science Graduate Student at George Washington University </h3>
